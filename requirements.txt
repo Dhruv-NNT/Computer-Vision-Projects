@@ -4,4 +4,3 @@ Pillow
 streamlit
 numpy
 Image
-PIL
