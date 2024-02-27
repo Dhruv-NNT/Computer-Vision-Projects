@@ -5,7 +5,7 @@ import numpy as np
 import math
 import os
 import streamlit as st
-import Image
+from PIL import Image
 import time
 
 def load_yolonas_process_each_image(image, confidence, st):
