@@ -1,7 +1,10 @@
 import streamlit as st
 from object_detection_image_video_streamlit import *
-from PIL import Image
 import tempfile
+try:
+    from PIL import Image
+except ImportError:
+    import Image
 
 def main():
 
