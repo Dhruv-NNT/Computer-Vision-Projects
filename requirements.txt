@@ -2,8 +2,5 @@ super_gradients
 opencv-python
 Pillow
 streamlit
-ffmpeg-python 
-pycocotools
-cython 
 numpy
 Image
