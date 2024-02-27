@@ -4,4 +4,4 @@ pillow
 streamlit
 ffmpeg-python 
 pycocotools
-
+PIL 
