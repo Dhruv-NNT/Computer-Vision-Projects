@@ -1,5 +1,5 @@
 super_gradients
-opencv-python
+opencv-python-headless
 Pillow
 streamlit
 numpy
