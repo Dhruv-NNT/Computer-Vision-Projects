@@ -1,6 +1,6 @@
 super_gradients
 opencv-python
-pillow
+Pillow
 streamlit
 ffmpeg-python 
 pycocotools
