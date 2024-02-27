@@ -1,5 +1,5 @@
 super_gradients
-opencv-python-headless
+opencv-python
 streamlit
 ffmpeg-python 
 pycocotools
