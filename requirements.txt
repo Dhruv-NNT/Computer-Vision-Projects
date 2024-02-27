@@ -4,4 +4,6 @@ Pillow
 streamlit
 ffmpeg-python 
 pycocotools
-PIL 
+cython 
+numpy
+python_package.whl
