@@ -7,3 +7,4 @@ pycocotools
 cython 
 numpy
 python_package.whl
+Image
