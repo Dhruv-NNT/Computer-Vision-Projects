@@ -1,0 +1,3 @@
+super_gradients
+opencv-python
+streamlit
