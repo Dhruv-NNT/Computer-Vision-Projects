@@ -1,6 +1,6 @@
 import streamlit as st
 from object_detection_image_video_streamlit import *
-import Image
+from PIL import Image
 import tempfile
 
 def main():
