@@ -3,3 +3,4 @@ opencv-python
 streamlit
 ffmpeg-python 
 pycocotools
+opencv-python-headless
