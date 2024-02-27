@@ -3,6 +3,3 @@ opencv-python
 streamlit
 ffmpeg-python 
 pycocotools
-cython 
-numpy
-python_package.whl
