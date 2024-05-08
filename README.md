@@ -14,3 +14,7 @@ I encourage you to explore the demo video, dive into the project's code, and con
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/158273319/328774975-e7748f4f-0e0a-4152-a04e-feb0dfff01f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T061431Z&X-Amz-Expires=300&X-Amz-Signature=65b4c08ee1a63de11697ef53f7028218d8b13b189c48939d6d23f03241b0f5e3&X-Amz-SignedHeaders=host&actor_id=158273319&key_id=0&repo_id=752228764
 
+## Project 3: - Image to Image Translation Using CycleGan
+This project utilizes CycleGAN, a generative adversarial network framework, for unpaired image-to-image translation. We trained a model to translate images from the GTA5 dataset (source domain) to the Cityscapes dataset (target domain) for semantic segmentation tasks. The project explores hyperparameter tuning, optimization techniques, and loss function selection to achieve realistic and semantically meaningful translations. The results of the project are showcased below:
+
+![image](https://github.com/Dhruv-NNT/Computer-Vision-Projects/assets/158273319/bb6d95e3-57bd-4430-91ec-c81f62d186be)
