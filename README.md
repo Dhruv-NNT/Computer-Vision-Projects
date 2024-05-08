@@ -11,5 +11,6 @@ In this project, users can upload either a video or an image, and the YOLONas mo
 
 By integrating YOLONas into a Streamlit-based application, I've created a powerful and accessible tool for object detection tasks. Whether you're a researcher, developer, or simply someone interested in computer vision, this project offers a compelling example of how cutting-edge deep learning techniques can be brought to life in a user-friendly and interactive manner.
 I encourage you to explore the demo video, dive into the project's code, and consider how you might leverage this technology in your own applications. If you have any questions or feedback, feel free to reach out. I'm excited to share this project with the community and see how it can be further developed and applied.
-https://github.com/Dhruv-NNT/Computer-Vision-Projects/assets/158273319/09a97b16-4869-4f23-ad1f-15a2b04e469c
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/158273319/328774975-e7748f4f-0e0a-4152-a04e-feb0dfff01f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T061431Z&X-Amz-Expires=300&X-Amz-Signature=65b4c08ee1a63de11697ef53f7028218d8b13b189c48939d6d23f03241b0f5e3&X-Amz-SignedHeaders=host&actor_id=158273319&key_id=0&repo_id=752228764
 
