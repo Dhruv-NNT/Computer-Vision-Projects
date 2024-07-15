@@ -102,15 +102,19 @@ Image stitching combines multiple overlapping images to create a single panorami
 Below are the results of the image stitching process. You can replace these placeholders with the actual images once they are generated.
 
 1. **Stitched Image 1**
+   
    ![image](https://github.com/user-attachments/assets/52453f09-e7d9-4754-a423-8d7272a4dad3)
 
 2. **Stitched Image 2**
+   
    ![image](https://github.com/user-attachments/assets/5790cb06-4ee3-4233-937f-85cfaae56721)
 
 3. **Stitched Image 3**
+   
    ![image](https://github.com/user-attachments/assets/38189b22-73a8-45dd-a581-43dec14eabae)
 
-4. **Stitched Image 4**
+5. **Stitched Image 4**
+   
    ![image](https://github.com/user-attachments/assets/f6d733db-d923-46e0-a1f2-522c14f345e2)
 
 
