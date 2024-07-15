@@ -4,7 +4,7 @@ Welcome to the **Computer Vision Projects** repository. This collection features
 
 ## Table of Contents
 
-1. [🖼️✨🔄 Image-Image-Translation Using CycleGANs](#image-image-translation-using-cyclegans)
+1. [🌉➡️🌆 Image-Image-Translation Using CycleGANs](#image-image-translation-using-cyclegans)
 2. [🕵️‍♂️📷 Object Detection Using YOLO-NAS](#object-detection-using-yolo-nas)
 3. [📸 Panoramic Image Stitching Project](#panoramic-image-stitching-project)
 4. [🔍 Histogram Equalization Assignment](#histogram-equalization-assignment)
