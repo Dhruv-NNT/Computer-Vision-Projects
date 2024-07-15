@@ -96,9 +96,10 @@ CycleGAN consists of two generator-discriminator pairs, \(G\) and \(F\), where \
 
 ### Translated Images
 
-Below are the results of the image translation process. You can replace these placeholders with the actual images once they are generated.
+**Below are the results of the image translation process.**
 
-![image](https://github.com/user-attachments/assets/d57e31fb-b4b2-458a-b4a7-520a9df750a9)
+![image](https://github.com/user-attachments/assets/2808c46b-2a8e-42eb-8181-7594454936fe)
+
 
 ## 🔍 Future Work
 
