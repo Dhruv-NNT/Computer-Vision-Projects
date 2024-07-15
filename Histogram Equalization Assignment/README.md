@@ -92,12 +92,7 @@ jupyter notebook
 For any questions or feedback, feel free to reach out to:
 
 - **Name**: Aradhya Dhruv
-- **Email**: aradhya.dhruv@example.com
+- **Email**: aradhya.dhruv@gmail.com
 
 ## 📝 Acknowledgements
-
 This project was conducted as part of the coursework for the Masters in Artificial Intelligence program at Nanyang Technological University, School of Computer Science and Engineering, Singapore.
-
----
-
-Feel free to further customize this README file based on any additional specific details or preferences you have!
