@@ -68,6 +68,10 @@ Recent advancements in computer vision have highlighted the potential of CycleGA
 
 **GTA V**: Synthetic images from the GTA V game, annotated at the pixel level for 19 semantic classes, providing 24,966 images.
 
+Provided below, is a snapshot the images from both the datasets:
+![image](https://github.com/user-attachments/assets/8091a326-0a99-41c8-b20f-c9b6785c1270)
+
+
 ### 3. CycleGAN Overview
 
 CycleGAN consists of two generator-discriminator pairs, \(G\) and \(F\), where \(G\) translates images from domain \(X\) to domain \(Y\), and \(F\) translates images from domain \(Y\) to domain \(X\). The key components include:
