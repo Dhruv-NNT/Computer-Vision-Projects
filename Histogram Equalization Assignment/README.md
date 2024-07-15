@@ -1,6 +1,6 @@
 # 📸 Histogram Equalization for Image Enhancement
 
-Welcome to the **Histogram Equalization for Image Enhancement** project. This project was conducted as part of the coursework for the Masters in Artificial Intelligence program at Nanyang Technological University, School of Computer Science and Engineering, Singapore. It explores various Histogram Equalization (HE) techniques to enhance the contrast and improve the visual quality of digital images. The work is part of the Computer Vision Projects repository.
+Welcome to the **Histogram Equalization for Image Enhancement** project. This project was conducted as part of the coursework for the Masters in Artificial Intelligence program at Nanyang Technological University. It explores various Histogram Equalization (HE) techniques to enhance the contrast and improve the visual quality of digital images. The work is part of the Computer Vision Projects repository.
 
 ## 📝 Project Overview
 
