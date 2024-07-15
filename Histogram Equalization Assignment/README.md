@@ -1,7 +1,3 @@
-Here is a detailed README file for the first project in your "Computer Vision Projects" repository, crafted based on the provided assignment report and other files:
-
----
-
 # 📸 Histogram Equalization for Image Enhancement
 
 Welcome to the **Histogram Equalization for Image Enhancement** project. This project explores various Histogram Equalization (HE) techniques to enhance the contrast and improve the visual quality of digital images. The work is part of the Computer Vision Projects repository.
