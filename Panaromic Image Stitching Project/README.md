@@ -129,7 +129,7 @@ Below are the results of the image stitching process. You can replace these plac
 For any questions or feedback, feel free to reach out to:
 
 - **Name**: Aradhya Dhruv
-- **Email**: aradhya.dhruv@example.com
+- **Email**: aradhya.dhruv@gmail.com
 
 ## 📝 Acknowledgements
 
