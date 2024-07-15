@@ -1,0 +1,6 @@
+super_gradients
+opencv-python-headless
+Pillow
+streamlit
+numpy
+Image
