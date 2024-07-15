@@ -1,20 +1,76 @@
-## Project 1: - Image stitching to create panoramic photographs
-In this project, I crafted panoramic views using image stitching. I focused on achieving a seamless result by using feature matching and detection techniques. Exploring advanced algorithms, I identified and aligned distinct features across multiple images. Through meticulous feature matching, I ensured accurate alignment and cultivated high-quality panoramas, maintaining visual fluidity. This work contributes to the academic discourse on image stitching, showcasing the effectiveness of feature-based techniques for a unified and aesthetically pleasing panoramic composition.📸
+# 📚 Computer Vision Projects
 
-![image](https://github.com/Dhruv-NNT/Computer-Vision-Projects/assets/158273319/ed11293e-a9eb-4ddf-872d-2f467eae0b1c)
-![image](https://github.com/Dhruv-NNT/Computer-Vision-Projects/assets/158273319/fc1b4fcf-4550-461e-97c7-e3f901d7fcba)
-![image](https://github.com/Dhruv-NNT/Computer-Vision-Projects/assets/158273319/90e3af96-9aab-44f8-a0c1-75f4b0eb9e3a)
+Welcome to the **Computer Vision Projects** repository. This collection features a series of projects that delve into various advanced techniques in Computer Vision. Each project is a demonstration of cutting-edge methodologies applied to solve specific tasks in the realm of image processing and analysis.
 
-## Project 2: - Object Detection Using YoLo - Nas
-In this project I've leveraged the power of the YOLONas (You Only Look Once Neural Architecture Search) model to create a user-friendly Streamlit application. YOLONas is a state-of-the-art object detection algorithm that combines the efficiency of the YOLO (You Only Look Once) framework with the flexibility of neural architecture search, allowing for optimized model performance across a variety of hardware and deployment scenarios.
-In this project, users can upload either a video or an image, and the YOLONas model will detect and classify objects in real-time. The Streamlit app provides a seamless interface, allowing users to easily interact with the object detection functionality. The demo video showcases the application in action, highlighting the model's ability to accurately identify and localize various objects within the input media.
+## Table of Contents
 
-By integrating YOLONas into a Streamlit-based application, I've created a powerful and accessible tool for object detection tasks. Whether you're a researcher, developer, or simply someone interested in computer vision, this project offers a compelling example of how cutting-edge deep learning techniques can be brought to life in a user-friendly and interactive manner.
-I encourage you to explore the demo video, dive into the project's code, and consider how you might leverage this technology in your own applications. If you have any questions or feedback, feel free to reach out. I'm excited to share this project with the community and see how it can be further developed and applied.
+1. [🖼️✨🔄 Image-Image-Translation Using CycleGANs](#image-image-translation-using-cyclegans)
+2. [🕵️‍♂️📷 Object Detection Using YOLO-NAS](#object-detection-using-yolo-nas)
+3. [📸 Panoramic Image Stitching Project](#panoramic-image-stitching-project)
+4. [🔍 Histogram Equalization Assignment](#histogram-equalization-assignment)
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/158273319/328774975-e7748f4f-0e0a-4152-a04e-feb0dfff01f0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T061431Z&X-Amz-Expires=300&X-Amz-Signature=65b4c08ee1a63de11697ef53f7028218d8b13b189c48939d6d23f03241b0f5e3&X-Amz-SignedHeaders=host&actor_id=158273319&key_id=0&repo_id=752228764
+## 🖼️✨🔄 Image-Image-Translation Using CycleGANs
 
-## Project 3: - Image to Image Translation Using CycleGan
-This project utilizes CycleGAN, a generative adversarial network framework, for unpaired image-to-image translation. We trained a model to translate images from the GTA5 dataset (source domain) to the Cityscapes dataset (target domain) for semantic segmentation tasks. The project explores hyperparameter tuning, optimization techniques, and loss function selection to achieve realistic and semantically meaningful translations. The results of the project are showcased below:
+### Overview
 
-![image](https://github.com/Dhruv-NNT/Computer-Vision-Projects/assets/158273319/bb6d95e3-57bd-4430-91ec-c81f62d186be)
+This project explores the use of Cycle-Consistent Generative Adversarial Networks (CycleGANs) for unpaired image-to-image translation. The focus is on translating images from one domain to another without the need for paired training examples.
+
+### Key Features
+
+- **Unpaired Image Translation**: Translate images between different domains without paired training data.
+- **Cycle Consistency Loss**: Ensures that translated images can be mapped back to the original domain.
+- **Adversarial Training**: Uses GANs to generate realistic images in the target domain.
+
+[Explore the project](https://github.com/Dhruv-NNT/Computer-Vision-Projects/tree/main/Image-Image-Translation%20Using%20CycleGANs)
+
+## 🕵️‍♂️📷 Object Detection Using YOLO-NAS
+
+### Overview
+
+This project demonstrates how to build a computer vision interface using Streamlit in Python for real-time object detection. It utilizes the YOLO NAS (You Only Look Once - Neural Architecture Search) object detection model, which is known for its efficiency and accuracy.
+
+### Key Features
+
+- **Real-Time Object Detection**: Perform object detection on images and videos in real-time.
+- **Streamlit Interface**: User-friendly web interface for uploading images and videos, and viewing detection results.
+- **High Accuracy**: Utilizes YOLO NAS for precise object detection with optimized network architecture.
+
+[Explore the project](https://github.com/Dhruv-NNT/Computer-Vision-Projects/tree/main/Object%20Detection%20Using%20YOLO-NAS)
+
+## 📸 Panoramic Image Stitching Project
+
+### Overview
+
+This project explores the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image using homography. 
+
+### Key Features
+
+- **Feature Detection using SIFT**: Identifies distinctive points or regions in the images.
+- **Feature Matching**: Matches features between images using brute force and K-Nearest Neighbors (KNN).
+- **Homography and Image Blending**: Aligns and blends multiple images to create a seamless panorama.
+
+[Explore the project](https://github.com/Dhruv-NNT/Computer-Vision-Projects/tree/main/Panaromic%20Image%20Stitching%20Project)
+
+## 🔍 Histogram Equalization Assignment
+
+### Overview
+
+Histogram Equalization (HE) is a fundamental image processing technique used to enhance the contrast of images. This project evaluates several HE methods, including Global HE, Adaptive HE, and Contrast-Limited Adaptive Histogram Equalization (CLAHE).
+
+### Key Features
+
+- **Global Histogram Equalization**: Enhances the global contrast of an image.
+- **Adaptive Histogram Equalization**: Enhances local contrast by dividing the image into smaller regions.
+- **Contrast-Limited Adaptive Histogram Equalization (CLAHE)**: Limits the contrast enhancement to avoid noise amplification.
+
+[Explore the project](https://github.com/Dhruv-NNT/Computer-Vision-Projects/tree/main/Histogram%20Equalization%20Assignment)
+
+---
+
+## Conclusion
+
+The **Computer Vision Projects** repository demonstrates the application of advanced computer vision techniques across various domains. Each project showcases the potential and versatility of modern computer vision frameworks in solving complex image processing tasks.
+
+For detailed information and setup instructions, please refer to the individual README files for each project. If you have any questions or feedback, feel free to reach out to the project contributors.
+
+---
